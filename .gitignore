@@ -208,6 +208,4 @@ __marimo__/
 
 # data warehosue and package folder
 spark-ivy/
-warehosue/
-.warehosue/chk/
-.warehosue/traffic_bronze/
+warehouse/
