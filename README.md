@@ -210,4 +210,4 @@ table schemas ,database info ,metadata
 ```
 
 #### Dashboard 
-![Image 1](../dashboard/dashboard.png)
+![Image 1](/dashboard/dashboard.png)
